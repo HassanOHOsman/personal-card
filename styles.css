@@ -1,0 +1,30 @@
+.main {
+Width: 500px;
+Display: flex;
+Margin-left: auto;
+Margin-right: auto;
+Margin-top: 250px;
+Justify-content: space-around;
+Border: 7px dotted green;
+Padding: 20px;
+Background: lightgrey;
+
+}
+
+.card-img {
+
+Width: 200px;
+Border: 3px inset #78728D;
+
+
+
+}
+
+.wrapper {
+
+Text-align: center;
+Font-size: 15px;
+
+}
+
+
